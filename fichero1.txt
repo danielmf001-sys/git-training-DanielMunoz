@@ -1,5 +1,1 @@
-Primera Línea
-Añado mas líneas de prueba
-Seguimos avanzando en la práctica de Daniel en Git
-Cuarta línea (modificada desde IntelliJ)
-
+Esto es una nueva funcionalidad que estoy creando en una rama nueva y las otras líneas no tienen sentido ahora, Daniel
